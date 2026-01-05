@@ -18,6 +18,11 @@ The dataset contains recorded solar power generation values along with time-base
 - Peak generation occurs during daytime hours, with reduced or zero output at night.
 - Variations in output highlight the impact of environmental and temporal factors.
 
+## Sample Visualization
+
+![Solar Power Output Over Time](output.png)
+
+
 ## Files
 - `solar_power_analysis.ipynb`: Main analysis and visualizations
 - `solar_generation_data.csv`: Cleaned solar power generation dataset
